@@ -1,9 +1,0 @@
-C:\Users\lissi\source\repos\WebApplication5\BLL\bin\Debug\netcoreapp2.2\BLL.deps.json
-C:\Users\lissi\source\repos\WebApplication5\BLL\bin\Debug\netcoreapp2.2\BLL.dll
-C:\Users\lissi\source\repos\WebApplication5\BLL\obj\Debug\netcoreapp2.2\BLL.csprojAssemblyReference.cache
-C:\Users\lissi\source\repos\WebApplication5\BLL\obj\Debug\netcoreapp2.2\BLL.csproj.CoreCompileInputs.cache
-C:\Users\lissi\source\repos\WebApplication5\BLL\obj\Debug\netcoreapp2.2\BLL.AssemblyInfoInputs.cache
-C:\Users\lissi\source\repos\WebApplication5\BLL\obj\Debug\netcoreapp2.2\BLL.AssemblyInfo.cs
-C:\Users\lissi\source\repos\WebApplication5\BLL\bin\Debug\netcoreapp2.2\BLL.pdb
-C:\Users\lissi\source\repos\WebApplication5\BLL\obj\Debug\netcoreapp2.2\BLL.dll
-C:\Users\lissi\source\repos\WebApplication5\BLL\obj\Debug\netcoreapp2.2\BLL.pdb
